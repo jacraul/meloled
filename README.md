@@ -1,12 +1,11 @@
 # MeloLED
 MP3 Player with LED strip using Pico RP2040
 
-:::info 
+## Info
 
 **Author**: Raul-Anton Jac \
 **GitHub Project Link**: https://github.com/UPB-FILS-MA/project-jacraul
 
-:::
 
 ## Description
 
